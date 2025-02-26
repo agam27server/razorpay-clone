@@ -1,4 +1,4 @@
-# Razorpay Clone  
+# Razorpay Clone  with TailwindCSS
 
 ## 🚀 Overview  
 This is a **Razorpay Clone** built using **HTML, CSS (TailwindCSS), and JavaScript**. It replicates the UI/UX of the Razorpay website.  
